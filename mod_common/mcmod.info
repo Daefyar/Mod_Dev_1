@@ -1,0 +1,20 @@
+[
+{
+  "modid": "Mod",
+  "name": "Mod",
+  "description": "This is for testing and learning purposes!",
+  "version": "0.0.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Daefyar"
+  ],
+  "credits": "Pahimar for being awsome!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
